@@ -12,7 +12,8 @@ Dashboard features:
 ✅ Geographical Insights: State-level sales mapping for better market visibility.
 ✅ Product Mix: Clear breakdown of Veg vs. Non-Veg performance.
 
-# Tools used: Excel (Power Pivot, Advanced Charting).
+# Tools used:
+Excel: Advanced Pivot Tables, Data Modeling, Slicers, and Dynamic Charting.
 
 Check out the snapshot below! 
 <img width="1378" height="727" alt="Swiggy_dashboard" src="https://github.com/user-attachments/assets/494bccbe-de05-4530-86a0-661a8549693c" />
