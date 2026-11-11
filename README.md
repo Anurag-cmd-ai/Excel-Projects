@@ -15,6 +15,7 @@ Dashboard features:
 # Tools used: Excel (Power Pivot, Advanced Charting).
 
 Check out the snapshot below! 
+<img width="1378" height="727" alt="Swiggy_dashboard" src="https://github.com/user-attachments/assets/494bccbe-de05-4530-86a0-661a8549693c" />
 
 #DataAnalysis #ExcelExpert #DashboardDesign #BusinessInsights #SalesTracking
 
@@ -38,5 +39,6 @@ Geographical Analysis: Comparison of top store locations to evaluate performance
 Excel: Advanced Pivot Tables, Data Modeling, Slicers, and Dynamic Charting.
 
 Check out the snapshot below!
+<img width="1672" height="632" alt="Coffee_Sales_dashboard" src="https://github.com/user-attachments/assets/a1b737de-d374-436a-8aad-5893669cbd31" />
 
 #DataAnalysis #ExcelExpert #DashboardDesign #BusinessIntelligence #RetailAnalytics #CoffeeShopSales
